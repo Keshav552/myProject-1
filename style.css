@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background-color: aquamarine
+}
+
+.links{
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
